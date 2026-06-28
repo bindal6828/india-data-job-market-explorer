@@ -126,7 +126,11 @@ Based on **579 unique job postings** across 20 cities:
 
 ## 📊 Dashboard Preview
 
-*(Add 2–3 screenshots of your dashboard here once uploaded to GitHub)*
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+![Skill Demand Chart](screenshots/skill_demand_chart.png)
+
+![City vs Skill Heatmap](screenshots/city_skill_heatmap.png)
 
 ---
 
