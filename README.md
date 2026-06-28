@@ -2,7 +2,7 @@
 
 A real-world data analytics project that collects, cleans, and analyzes live Data Analyst & Data Scientist job postings across 20 major Indian cities — surfacing in-demand skills, city-wise market differences, and a salary-prediction model, all wrapped in an interactive dashboard.
 
-**[🔗 Live Dashboard](#)** *(add your deployed Streamlit Cloud link here)*
+[🔗 Live Dashboard](https://india-data-job-market-explorer-jfmy8okny37xqxcnurhlec.streamlit.app)
 
 ---
 
